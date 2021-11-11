@@ -1,0 +1,65 @@
+WARNING (theano.tensor.blas): Using NumPy C-API based implementation for BLAS functions.
+INFO (theano.gof.compilelock): Waiting for existing lock by process '75593' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30033' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30033' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30033' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30033' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30033' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30033' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30033' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30032' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30032' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30032' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30040' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30040' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30040' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30040' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30040' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30040' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30040' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30039' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '30039' (I am process '30035')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/cricha10/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.17-x86_64-3.9.7-64/lock_dir
+Only 10 samples in chain.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (4 chains in 4 jobs)
+NUTS: [b, conc_params]
+ -- Processing GOV14
+After dropping NA and 0-VAP, len df 1809 -> 1802
+    -- Scaled 9 precincts, for an increase of 2560 VAP
+Running ['WVAP', 'BVAP', 'HVAP', 'OVAP'] x ['Anthony Brown', 'Larry Hogan', 'None'] EI on GOV14
+r = 4 rows (demographic groups)
+c = 3 columns (candidates or voting outcomes)
+number of precincts = 1802
+█Sampling 4 chains for 10 tune and 10 draw iterations (40 + 40 draws total) took 747 seconds.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+WARNING (theano.tensor.blas): Using NumPy C-API based implementation for BLAS functions.
+
+Making viz for GOV14 on ('WVAP', 'BVAP', 'HVAP')...
+WARNING (theano.tensor.blas): Using NumPy C-API based implementation for BLAS functions.
+Making summary for GOV14 on ('WVAP', 'BVAP', 'HVAP')
