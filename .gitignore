@@ -1,0 +1,7 @@
+.DS_store
+outputs/.DS_Store
+env/
+__pycache__/
+shapes/*/
+**/ei
+.ipynb_checkpoints/
