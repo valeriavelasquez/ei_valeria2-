@@ -1,0 +1,8 @@
+WARNING (theano.tensor.blas): Using NumPy C-API based implementation for BLAS functions.
+INFO (theano.gof.compilelock): Waiting for existing lock by process '77695' (I am process '4504')
+INFO (theano.gof.compilelock): To manually release the lock, delete /cluster/home/gvelas02/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-glibc2.2.5-x86_64-3.8.8-64/lock_dir
+Only 10 samples in chain.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (4 chains in 4 jobs)
+NUTS: [b, conc_params]
